@@ -57,7 +57,7 @@
 		</div>
 
 		<div id="br_clasament_an_2017" class="well" style="display: none">
-            https://account.jetbrains.com/loginClasament 2017 - <a href="https://docs.google.com/spreadsheets/d/1IhBrlDZNUdjz2E7_MZpO3CNQIOPO9bXbvCmNqrdwWoc/edit?usp=sharing" target="_blank">Link sursa</a>
+            Clasament 2017 - <a href="https://docs.google.com/spreadsheets/d/1IhBrlDZNUdjz2E7_MZpO3CNQIOPO9bXbvCmNqrdwWoc/edit?usp=sharing" target="_blank">Link sursa</a>
 			</br></br>
 			<div class="table-responsive">
 				<table id="clasament_2017">

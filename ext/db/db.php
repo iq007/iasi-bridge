@@ -6,7 +6,7 @@ try{
     $database = new medoo([
         // required
         'database_type' => 'mysql',
-        'database_name' => getenv("DBNAME") ? getenv("DBNAME") : 'www_iasi_bridge_club_ro',
+        'database_name' => getenv("DBNAME") ? getenv("DBNAME") : 'bridgeiasi',
         'server' => getenv("DBSERVER") ? getenv("DBSERVER") : 'localhost',
         'username' => getenv("DBUSER") ? getenv("DBUSER") : 'root',
         'password' => getenv("DBPASS") ? getenv("DBPASS") : '',

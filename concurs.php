@@ -13,10 +13,11 @@
 
 <div id="br_concurs_noutati" class="container" role="main">
     <div class="jumbotron">
-        <!--p>Bridge Club Iasi va invita la Memorialul "Emil Alexandrescu", editia a XXV-a, care va avea loc in perioada 6 Mai - 8 Mai 2016 la Hotel Moldova, sub patronajul Federatiei Romane de Bridge.</p-->
         <p><a href="./arhiva/iasi2016.xls" target="_blank">Rezultate 2016</a></p>
+        <p>Bridge Club Iasi va invita la Memorialul "Emil Alexandrescu", editia a XXVI-a, care va avea loc in perioada 21 Aprilie - 23 Aprilie 2017 la Motel Bucium, sub patronajul Federatiei Romane de Bridge.</p>
+
         <p>&nbsp;</p>
-        <div id="br_concurs_info" class="well" style="display: none; text-align: center">
+        <div id="br_concurs_info" class="well" style="display: block; text-align: center">
             <div class="row">
                 <div class="col-md-3">
                     </br><a href="#br_concurs_details_info" data-toggle="collapse"><i class="fa fa-info fa-lg"> Informatii concurs </i></a></br></br>
@@ -46,13 +47,13 @@
                                 <h3 class="panel-title"><i class="fa fa-info fa-lg"> Program </i></h3>
                             </div>
                             <div class="panel-body">
-                                <b>Vineri,  6 Mai</b></br>15.55 - Perechi Open - Sesiunea I</br>20.30 - Perechi Open - Sesiunea II</br></br>
-                                <b>Sambata, 7 Mai</b></br>9.45 - Echipe Danez - Rundele I-IV</br>15.45 - Echipe Danez - Rundele V-VIII</br>
+                                <b>Vineri,  21 Aprilie</b></br>16.00 - Perechi Open - Sesiunea I</br>20.30 - Perechi Open - Sesiunea II</br></br>
+                                <b>Sambata, 22 Aprilie</b></br>9.30 - Echipe Danez - Rundele I-IV</br>15.30 - Echipe Danez - Rundele V-VIII</br>
                                     21.00 - Cine festiva oferita de organizator</br></br>
-                                <b>Duminica, 8 Mai</b></br>10.00 - Echipe Danez rundele 9-11 divizia B si divizia C</br>
-                                10.00 - Echipe Danez Semifinale divizia A - loc I cu loc IV ; loc II cu loc III</br>
-                                11:30 - Finala mica - Invinsele din semifinale</br>
-                                11:30 - Finala mare - Castigatoarele din seminfinale</br>
+                                <b>Duminica, 23 Aprilie</b></br>10.00 - Echipe Danez rundele 9-11 divizia B si divizia C</br>
+                                11.00 - Echipe Danez Semifinale divizia A - loc I cu loc IV ; loc II cu loc III</br>
+                                - Finala mare: invingatoarele din semifinale
+                                - Finala mica: invinsele din semifinale
                                 - Semifinalele si finalele = meciuri de 12 done
                                 </br>13.30 - Festivitatea de premiere</br>
                             </div>
@@ -81,6 +82,7 @@
                             <div class="panel-body">
                                 <b>Perechi Open</b> 160 RON / axa</br></br>
                                 <b>Echipe Danez</b> 400 RON / echipa</br></br>
+                                <b>10 lei/jucator taxa speciala</b></br></br>
                                 <i>Juniorii si pensionarii beneficiaza de 50% reducere la inscriere!</i></br></br>
 
                             </div>
@@ -88,7 +90,7 @@
 
                         <div class="panel panel-info"  style="text-align: left">
                             <div class="panel-body">
-                                <p>Inscrierile se fac telefonic la numarul <a href="tel:0726745146">0726 745 146</a> până la data de 05.05.2016 sau online la <a href="http://bridge-iasi.club/" target="_new">http://bridge-iasi.club/</a>
+                                <p>Inscrierile se fac telefonic la numarul <a href="tel:0726745146">0726 745 146</a> până la data de 15.04.2017 sau online la <a href="http://bridge-iasi.club/" target="_new">http://bridge-iasi.club/</a>
                                 </p>
                                 <p>Confirmarile se sisteaza cu 60 de minute inainte de inceperea
                                     fiecarui concurs.
@@ -99,7 +101,7 @@
                                 </p>
                                 <p>Manager Turneu: Romeo Olteanu</br>
                                     Director Turneu: Calin Damboianu</br>
-                                    Arbitru: Razvan Spiridonescu</br>
+                                    Arbitru: Adrian Craciun</br>
                                     Arbitru: Carol Ghergheli
                                 </p>
 
