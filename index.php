@@ -2,7 +2,6 @@
 <html lang="en">
 	<head>
 		<?php include 'header.php';?>
-		
 	</head>
   <body role="document">
 	<?php include 'menu.php';?>
