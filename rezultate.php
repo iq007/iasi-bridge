@@ -9,7 +9,7 @@
 	<div class="container" role="main">
 		<div class="jumbotron">
 			<h1>Rezultate</h1>
-			<p>Rezultate concursuri de casa Bridge Club Iasi si Arhiva 2004-2016.</p>
+			<p>Rezultate concursuri de casa Bridge Club Iasi si Arhiva 2004-2017.</p>
 			<p>
 				<a id="br_rezultate_info_button" role="button" class="btn btn-lg btn-default" href="#" onClick="hide([ 'br_rezultate_arhiva', 'br_clasament_an_2017', 'br_clasament_an_2016']);toggle('br_rezultate_info');"><?php echo gmdate("Y-m-d", $newstFileDate);?></a>
 				<a role="button" id ="br_clasament_an_2017_button" class="btn btn-lg btn-default" href="#" onClick="hide(['br_rezultate_info', 'br_rezultate_arhiva', 'br_clasament_an_2016' ]); toggle('br_clasament_an_2017');">Clasament Club Iasi 2017</a>
