@@ -1,0 +1,12 @@
+   1 Filimon                       Bordei                        139        63.181818
+   2 Hoza                          Chitovanu                     130        59.090909
+   3 Radu Danutz                   Eva                           123        55.909090
+   4 Iancu                         Banar                         121        55
+   5 Matoianu                      Rosu                          110        50
+   6 Popescu Radu                  Agica                         109        49.545454
+   7 Olteanu                       Zavloschi                     104        47.272727
+   8 Preda                         Soldan                        103        46.818181
+   9 Radulescu                     Prisacaru                     100        45.454545
+  10 Andarache                     Cluci                         94         42.727272
+ =10 Popescu Andrei                Sechelea                      94         42.727272
+  12 Algareb                       Nicolescu                     93         42.272727

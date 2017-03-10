@@ -1,0 +1,10 @@
+   1 Goldemberg                    Chitovanu                     105.8      65.308641
+   2 Sechelea                      Agica                         83.8       51.728395
+  =2 Nutescu                       Filimon                       83.8       51.728395
+   4 Gradinaru                     Andarache                     81.8       50.493827
+   5 Hoza                          Nistor                        79.8       49.259259
+  =5 Matoianu                      Rosu                          79.8       49.259259
+   7 Boboc                         Bordei                        77.8       48.024691
+  =7 Paraschiv                     Chipail                       77.8       48.024691
+   9 Olteanu                       Zavloschi                     74.8       46.172839
+  10 Releu                                                       64.8       40

@@ -1,0 +1,44 @@
+body {
+    padding-bottom: 30px;
+    padding-top: 0px;
+}
+.theme-dropdown .dropdown-menu {
+    display: block;
+    margin-bottom: 20px;
+    position: static;
+}
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+.theme-showcase .navbar .container {
+    width: auto;
+}
+  
+.footer {
+  text-align: center;
+}
+
+.label{
+    color: #101010;
+}
+
+.input-group{
+    width: 100%;
+}
+.social{
+    text-align: right;
+    padding-top: 10px;
+}
+
+.alert{
+
+    width:97%;
+    margin-right: auto; /*set to a negative number 1/2 of your width*/
+    margin-left: auto; /*set to a negative number 1/2 of your width*/
+    text-align: center;
+
+}
+
+@media  {
+    
+}

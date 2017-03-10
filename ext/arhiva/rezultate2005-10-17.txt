@@ -1,0 +1,8 @@
+   1 Olteanu                       Cosma                         99.4       59.166666
+   2 Paraschiv                     Chipail                       97.2       57.857142
+   3 Iancu                         Popescu Andrei                92.8       55.238095
+   4 Bordei                        Zavloschi                     85.9333333 51.150793
+   5 Hoza                          Chitovanu                     84         50
+   6 Eva                           Nicolescu                     78.6666666 46.825396
+   7 Cluci                         Andarache                     75         44.642857
+   8 Simiuc                        Vaschievici                   59         35.119047

@@ -1,0 +1,12 @@
+1	Iancu	Banar	60.95
+2	Radulescu	Prisacaru	55.14
+3	Matoianu	Rosu	53.27
+4	Ungureanu	Filimon	50.91
+5	Paraschiv	Chipail	50.64
+6	Adam	Petrescu	48.68
+7	Hoza	Nistor	48.59
+8	Popescu Andrei	Sechelea	48.55
+9	Chitovanu	Popescu Radu	48.45
+10	Nicolescu	Trelea	47.55
+11	Boboc	Bordei	46.09
+12	Alexa	Alexa	38.91

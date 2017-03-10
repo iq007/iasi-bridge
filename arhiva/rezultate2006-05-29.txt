@@ -1,0 +1,12 @@
+   1 Popescu Radu                  Banar Alexandru               111.98     63.625
+   2 Nutescu                       Filimon                       107.1      60.852272
+   3 Rosu                          Matioanu                      105.16     59.75
+   4 Ungureanu                     Olteanu                       100.766666 57.253787
+   5 Chitovanu                     Hoza                          98.15      55.767045
+   6 Popscu Andrei                 Eva                           93.35      53.039772
+   7 Paraschiv                     Chipail                       89.0166666 50.577651
+   8 Iancu                         Agica                         86.9333333 49.393939
+   9 Boboc                         Bordei                        79.1       44.943181
+  10 Releu                                                       70.4       40
+  11 Waschiewici                   Simiuc                        60.2333333 34.223484
+  12 Loghin                        Nicolescu                     57.55      32.698863

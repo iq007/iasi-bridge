@@ -1,0 +1,12 @@
+1	Ceia		Gradinaru	64.727272
+2	Irina Filimon	Banar		64.454545
+3	Teodosiu	Balasoiu	56.454545
+4	Popescu		Solomon		55.818181
+5	Mihaela Iancu	Stefan Iancu	54.181818
+6	Adrian Filimon	Zavloschi	52.090909
+7	Boboc		Rosu		49.090909
+8	Nutescu		Chipail		48.363636
+9	Matoianu	Eva		44.545454
+10	Blidarus	Niculescu	41.181818
+11	Andarache	Cluci		40.90909
+12	Munteanu	?		28.181818

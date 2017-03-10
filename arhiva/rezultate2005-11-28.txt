@@ -1,0 +1,10 @@
+   1 Cluci                         Andarache                     129        59.722222
+   2 Rosu                          Bordei                        126        58.333333
+   3 Ungureanu                     Filimon                       120        55.555555
+   4 Hoza                          Nistor                        117        54.166666
+   5 Popescu Radu                  Banar                         114        52.777777
+   6 Nutescu                       Zavloschi                     110        50.925925
+   7 Paraschiv                     Chipail                       109        50.462962
+   8 Matoianu                      Boboc                         101        46.759259
+   9 Alexa                         Alexa                         89         41.203703
+  10 Simiuc                        Vaschievici                   65         30.092592

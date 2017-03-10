@@ -1,0 +1,8 @@
+1	Nutescu			Zavloschi	63,49
+2	Boboc Andreea		Chipail		57,94
+3	Iancu			Popescu 	55,56
+4	Andarache		Cluci		50,79
+5	Bordei			Rosu		50,00
+6	Balasanu		Teodosiu	47,62
+7	Eva			Solomon		42,06
+8	Blidarus		Niculescu	32,54

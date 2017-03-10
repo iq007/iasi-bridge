@@ -1,0 +1,10 @@
+   1 Sechelea                      Banar                         145.5      67.361111
+   2 Chipail                       Matoianu                      143.2      66.296296
+   3 Mihailescu                    Niculescu                     125.55     58.125
+   4 Ungureanu                     Boboc                         106.5      49.305555
+   5 Bordei                        Rosu                          106.25     49.189814
+   6 Iancu                         Chitovanu                     103.5      47.916666
+   7 Hoza                          Eva                           101        46.759259
+   8 Nutescu                       Zavloschi                     97.25      45.023148
+   9 Andarache                     Cluci                         81.75      37.847222
+  10 Istov                         Moruz                         69.5       32.175925

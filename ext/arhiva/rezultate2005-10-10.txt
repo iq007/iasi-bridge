@@ -1,0 +1,10 @@
+   1 Moruz                         Busuioc                       131        60.648148
+   2 Cluci                         Andarache                     119        55.092592
+   3 Popescu Andrei                Ungureanu                     115        53.240740
+   4 Sechelea                      Banar                         112        51.851851
+   5 Nutescu                       Zavloschi                     108        50
+   6 Simiuc                        Vaschievici                   106        49.074074
+   7 Nicolescu                     Vaschievici                   105        48.611111
+   8 Hoza                          Chitovanu                     104        48.148148
+   9 Chipail                       Filimon                       91         42.129629
+  10 Alexa                         Alexa                         89         41.203703

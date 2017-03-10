@@ -1,0 +1,4 @@
+WARNING: NODE_ENV value of 'production' did match any deployment config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Warning: missing space before text for line 13 of jade file "views\checkout.jade"
+Warning: missing space before text for line 49 of jade file "views\checkout.jade"

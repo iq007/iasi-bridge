@@ -1,0 +1,10 @@
+   1 Iancu                         Banar                         103.133333 63.662551
+   2 Matoianu                      Nutescu                       95.1333333 58.724279
+   3 Ungureanu                     Filimon                       91.1333333 56.255144
+   4 Paraschiv                     Chipail                       89.8       55.432098
+   5 Cluci                         Andarache                     82.4666666 50.905349
+   6 Trelea                        Nicolescu                     79.8       49.259259
+   7 Alexa                         Alexa                         73.4666666 45.349794
+   8 Moruz                         Sechelea                      67.8       41.851851
+   9 Releu                                                       64.8       40
+  10 Hoza                          Eva                           62.4666666 38.559670

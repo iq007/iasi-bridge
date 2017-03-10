@@ -1,0 +1,14 @@
+1	Bordei		Frank			60.21	139
+2	Busuioc		Constantinescu		57.00	87
+3	Filimon		Nutescu			56.93	60
+4	Ceia		Chitovanu		54.79	41
+5	Iancu		Solomon			54.21	23
+6	Olteanu		Zavloschi		53.07
+7	Chipail		Matoianu		53.00
+8	Andarache	Cluci			51.43
+9	Boboc		Rosu			48.64
+10	Homeuca		Ionescu			46.79
+11	Vaschievici	Simiuc			46.43
+12	VascieviciA 	Niculescu		41.07
+13	Releu					40.00
+14	Benta		Anastasescu		36.43

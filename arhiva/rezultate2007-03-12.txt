@@ -1,0 +1,10 @@
+1	Rosu		Bordei		63.4222
+2	Iancu		Popescu Radu	58.1333
+3	Olteanu		Boboc		54.8
+4	Chipail		Matoianu	53.9111
+5	Blidarus	Niculescu	52.6667
+6	Filimon		Nutescu		49.8667
+7	Zavloschi	Ungureanu	48.3111
+8	Andarache	Cluci		44.6667
+9	Releu				40
+10	Benta		Anastasescu	34.2222

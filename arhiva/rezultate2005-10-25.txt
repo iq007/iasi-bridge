@@ -1,0 +1,10 @@
+   1 Iancu                         Popescu Andrei                129.25     59.837962
+   2 Zavloschi                     Olteanu                       127.75     59.143518
+   3 Chipail                       Paraschiv                     116.5      53.935185
+   4 Bordei                        Andarache                     112.5      52.083333
+   5 Banar                         Sechelea                      111.95     51.828703
+   6 Ungureanu                     Filimon                       109.45     50.671296
+   7 Istov                         Popescu Radu                  106        49.074074
+   8 Moruz                         Eva                           89.7       41.527777
+   9 Alexa                         Alexa                         87.5       40.509259
+  10 Hoza                          Nicolescu                     86.2       39.907407

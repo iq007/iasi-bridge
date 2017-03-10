@@ -1,0 +1,8 @@
+   1 Olteanu                       Matoianu                      77         61.111111
+   2 Popescu Radu                  Iancu                         72         57.142857
+   3 Rosu                          Bordei                        68         53.968253
+   4 Paraschiv                     Chipail                       61         48.412698
+   5 Loghin                        Niculescu                     59         46.825396
+   6 Alexa                         Alexa                         58         46.031746
+   7 Chitovanu                     Banar                         56         44.444444
+   8 Eva                           Andarache                     53         42.063492

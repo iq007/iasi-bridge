@@ -1,0 +1,12 @@
+   1 Hoza                          Nistor                        143.8      65.363636
+   2 Boboc                         Bordei                        140        63.636363
+   3 Sechelea                      Banar                         135.8      61.727272
+   4 Ungureanu                     Filimon                       131        59.545454
+   5 Olteanu                       Ceia                          127.8      58.090909
+   6 Busuioc                       Zavloschi                     127.2      57.818181
+   7 Mihailescu                    Nicolescu                     111.2      50.545454
+   8 Matoianu                      Istov                         103.2      46.909090
+   9 Paraschiv                     Chipail                       102.6      46.636363
+  10 Iancu                         Popescu Andrei                90.2       41
+  11 Cluci                         Andarache                     73.4       33.363636
+  12 Simiuc                        Vaschievici                   33.8       15.363636

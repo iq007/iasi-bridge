@@ -1,0 +1,8 @@
+   1 Hoza                          Nistor                        72.1       64.375
+   2 Rosu                          Bordei                        64         57.142857
+   3 Moruz                         Eva                           61.6       55
+   4 Ciobanu                       ?                             59.1       52.767857
+   5 Sechelea                      Nutescu                       55.1       49.196428
+   6 Iancu                         Popescu Radu                  52.1       46.517857
+   7 Releu                                                       44.8       40
+   8 Mihailescu                    Nicolescu                     40         35.714285

@@ -1,0 +1,13 @@
+					%	PE
+1	Nicolescu	Blidarus	60.13	132
+2	Matoianu	Chipail		60.01	81
+3	Boboc		Frank		57.25	54
+4	Ungureanu	Zavloschi	56.01	32
+5	Ceia		Chitovanu	53.45	
+6	Benta		Anastasescu	52.17	
+7	Popescu Radu	Iancu		48.74	
+8	Nutescu		Filimon		48.04	
+9	Rosu		Bordei		46.83	
+10	Andarache	Cluci		45.50	
+11	Releu				40.00	
+12	Homeuca		Ionescu		33.96	

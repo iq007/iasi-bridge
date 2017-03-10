@@ -1,0 +1,10 @@
+1	Sorina Negulescu	Chipail		63.89	118
+2	Paula Toderica		Iancu		58.80	70
+3	Rosu			Bordei		55.56	43
+3	Andreea Boboc		Matoianu	55.56	19
+5	Nutescu			Filimon A.	49.07	
+6	Olteanu			Ceia		48.15	
+7	Irina Filimon		Zavloschi	46.30	
+8	Cluci			Andarache	43.06	
+9	Alina Ghitescu		Solomon		42.59	
+10	Blidarus		Niculescu	37.04	

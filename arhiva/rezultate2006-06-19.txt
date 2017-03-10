@@ -1,0 +1,8 @@
+   1 Popescu Radu                  Banar                         86         68.253968
+   2 Matoianu                      Chipail                       75         59.523809
+   3 Nicolescu                     Loghin                        68         53.968253
+  =3 Rosu                          Bordei                        68         53.968253
+   5 Filimon                       Iancu                         61         48.412698
+   6 Olteanu                       Zavloschi                     60         47.619047
+   7 Eva                           Andarache                     51         40.476190
+   8 Chitovanu                     Albrecht                      35         27.777777

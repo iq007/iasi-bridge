@@ -1,0 +1,8 @@
+   1 Filimon                       Zavloschi                     106.466666 63.373015
+   2 Matoianu                      Andarache                     94.0666666 55.992063
+   3 Rosu                          Bordei                        92.7333333 55.198412
+   4 Iancu                         Banar                         90         53.571428
+   5 Paraschiv                     Chipail                       86.3333333 51.388888
+   6 Ceia                          Chitovanu                     84.3333333 50.198412
+   7 Hoza                          Nistor                        58.8666666 35.039682
+   8 Nicolescu                     Loghin                        58         34.523809

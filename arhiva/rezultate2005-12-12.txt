@@ -1,0 +1,10 @@
+   1 Ungureanu                     Filimon                       95         58.641975
+   2 Nicolescu                     Trelea                        90.1333333 55.637860
+   3 Rosu                          Bordei                        87.4666666 53.991769
+   4 Iancu                         Chitovanu                     84.6       52.222222
+   5 Andarache                     Cluci                         83.4666666 51.522633
+   6 Olteanu                       Zavloschi                     82.1333333 50.699588
+   7 Vrejoiu                       Chipail                       81.4666666 50.288065
+   8 Matoianu                      Gradinaru                     72.1333333 44.526748
+   9 Eva                           Hoza                          65.2       40.246913
+  10 Releu                                                       64.8       40

@@ -1,0 +1,8 @@
+   1 Rosu                          Filimon                       76.1       67.946428
+   2 Chipail                       Zavloschi                     71.6       63.928571
+   3 Nicolescu                     Loghin                        58         51.785714
+   4 Matoianu                      Andarache                     56.1       50.089285
+   5 Popescu Radu                  Nutescu                       55.1       49.196428
+   6 Popescu Andrei                Iancu                         51.2       45.714285
+   7 Releu                                                       44.8       40
+   8 Vaschivici                    Simiuc                        35.1       31.339285

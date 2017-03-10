@@ -1,0 +1,8 @@
+   1 Iancu                         Agica                         76         60.317460
+   2 Zavloschi                     Chipail                       75.6666666 60.052910
+   3 Popescu                       Goldemberg                    72.3333333 57.407407
+   4 Simiuc                        Vaschievici                   65.6666666 52.116402
+   5 Banar                         Sechelea - Eva                64.3333333 51.058201
+   6 Chitovanu                     Ceia                          64         50.793650
+   7 Filimon                       Nutescu                       56         44.444444
+   8 Nicolescu                     Loghin                        30         23.809523

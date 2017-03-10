@@ -1,0 +1,8 @@
+1	Popescu		Nutescu		60.36
+2	Ceia		Matoianu	58.57
+3	Chipail		Zavloschi	55.00
+4	Gradinaru	Andarache	49.64
+5	Blidarus	Niculescu	47.86
+5	Benta		Siminiuc	47.86
+7	Boboc		Rosu		40.71
+8	Releu				40.00

@@ -1,0 +1,12 @@
+1	Iancu	Banar	60.00
+2	Eva	Istov	58.27
+3	Chitovanu	Sechelea	57.27
+4	Rosu	Matoianu	56.09
+5	Boboc	Bordei	53.18
+6	Ungureanu	Cozma	51.91
+7	Nicolescu	Hoza	51.45
+8	Popescu Radu	Agica	50.18
+9	Radulescu	Prisacaru	43.18
+10	Chipail	Zavloschi	42.36
+11	Cluci	Andarache	40.27
+12	Preda	Soldan	37.64

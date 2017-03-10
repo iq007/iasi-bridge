@@ -1,0 +1,1 @@
+copii dllul din crack in directorul unde instalezi.

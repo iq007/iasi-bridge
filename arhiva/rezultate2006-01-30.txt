@@ -1,0 +1,10 @@
+   1 Olteanu                       Zavloschi                     109.8      67.777777
+   2 Matoianu                      Rosu                          104.4      64.444444
+   3 Popescu                       Nutescu                       99.4666666 61.399176
+   4 Iancu                         Banar                         97.8       60.370370
+   5 Boboc                         Bordei                        70.4666666 43.497942
+   6 Paraschiv                     Chipail                       68.1333333 42.057613
+   7 Radulescu                     Nicolescu                     65.8       40.617283
+   8 Vaschievici                   Simiuc                        65.1333333 40.205761
+   9 Releu                                                       64.8       40
+  10 Agica                         Sechelea                      64.2       39.629629

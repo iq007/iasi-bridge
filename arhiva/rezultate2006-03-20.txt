@@ -1,0 +1,10 @@
+1	Agica	Nutescu	65.05
+2	Boboc	Bordei	60.53
+3	Andarache	Cluci	56.13
+4	Sechelea	Chitovanu	52.55
+5	Paraschiv	Chipail	52.43
+6	Rosu	Matoianu	52.20
+7	Algareeb	Nicolescu	47.92
+8	Soldan	Preda	38.89
+9	Argatu	Popescu A - Iancu	38.43
+10	Eva	Moruz	35.88

@@ -1,0 +1,11 @@
+					%		PE
+1	Olteanu		Stanescu	63.868312	118
+2	Chitovanu	Ceia		61.810699	70
+3	Rosu		Bordei		57.65432	43
+4	Solomon		Ghitescu	51.728395	19
+5	Chipail		Matoianu	50.493827	
+6	Zavloschi	Nutescu		48.847736	
+7	Blidarus	Niculescu	42.674897	
+7	Iancu		Popescu		42.674897	
+9	Cluci		Andarache	40.987654	
+10	Releu				40	

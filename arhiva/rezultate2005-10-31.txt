@@ -1,0 +1,8 @@
+   1 Popescu Andrei                Banar Alexandru               51.2       60.952380
+   2 Vaschievici                                                 49.2       58.571428
+   3 Ungureanu                     Filimon                       42.2       50.238095
+   4 Paraschiv                     Chipail                       40.2       47.857142
+  =4 Istov                         Moruz                         40.2       47.857142
+  =4 Mihailescu                    Nicolescu                     40.2       47.857142
+   7 Chitovanu                     Hoza                          39.2       46.666666
+   8 Releu                                                       33.6       40

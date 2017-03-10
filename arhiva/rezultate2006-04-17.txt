@@ -1,0 +1,12 @@
+   1	Filimon                      	Agica                        	65.54
+   2	Matoianu                     	Rosu                         	64.12
+   3	Iancu                        	Banar                        	62.13
+   4	Algareeb                     	Nicolescu                    	57.30
+   5	Ungureanu                    	Romascu                      	57.02
+   6	Popescu Radu                 	Nutescu                      	46.25
+   7	Popscu Andrei                	Sechelea                     	45.37
+   8	D'Albon - Chipail            	Boboc - Zavloschi            	45.34
+   9	Preda                        	Soldan                       	40.26
+  10	Releu                        	                              	40.00
+  11	Hoza                         	Nistor                       	38.41
+  12	Andarache                    	Eva                          	38.27

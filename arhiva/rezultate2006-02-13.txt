@@ -1,0 +1,10 @@
+1	Matoianu	Rosu	64.69
+2	Radulescu	Prisecaru	62.22
+3	Iancu	Banar	55.43
+4	Popescu Radu	Zavloschi	54.81
+5	Andarache	Cluci	51.73
+6	Nicolescu	Alkgareeb	49.26
+7	Ungureanu	Filimon	46.17
+8	Releu		40.00
+9	Eva	Moruz	38.77
+10	Chipail	Sechelea	36.91
