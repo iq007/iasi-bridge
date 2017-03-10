@@ -18,7 +18,7 @@
     $email    = new SendGrid\Email();
 
 
-    $myemail = "a1b2ff@yahoo.com";
+    $myemail = "istefan81@gmail.com";
     $subject = "Memorial Emil Alexandrescu -";
 
     if($_GET['action'] == 'cazare') {
