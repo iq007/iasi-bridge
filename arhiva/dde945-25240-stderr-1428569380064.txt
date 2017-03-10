@@ -1,2 +1,0 @@
-WARNING: NODE_ENV value of 'production' did match any deployment config file names.
-WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
