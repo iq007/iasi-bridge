@@ -20,7 +20,8 @@
 
     $myemail = "istefan81@gmail.com";
     $myemail2 = "a1b2ff@yahoo.com";
-    $subject = "Memorial Emil Alexandrescu -";
+    $myemail3 = "gamenromeo@gmail.com";
+    $subject = "Memorial Emil Alexandrescu - ";
 
     if($_GET['action'] == 'cazare') {
 
@@ -145,6 +146,7 @@
 
         $email->addTo($myemail)
             ->addTo($myemail2)
+            ->addTo($myemail3)
             ->setFrom($api_user)
             ->setSubject($subject)
             ->setHtml($mailbody
