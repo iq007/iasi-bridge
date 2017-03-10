@@ -18,7 +18,8 @@
     $email    = new SendGrid\Email();
 
 
-    $myemail = "istefan81@gmail.com;gamenromeo@gmail.com;a1b2ff@yahoo.com";
+    $myemail = "istefan81@gmail.com";
+    $myemail2 = "a1b2ff@yahoo.com";
     $subject = "Memorial Emil Alexandrescu -";
 
     if($_GET['action'] == 'cazare') {
@@ -143,6 +144,7 @@
     else {
 
         $email->addTo($myemail)
+            ->addTo($myemail2)
             ->setFrom($api_user)
             ->setSubject($subject)
             ->setHtml($mailbody
