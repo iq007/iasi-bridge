@@ -2,6 +2,8 @@
 
 require_once('ext/db/medoo.min.php');
 
+echo getenv("DBNAME") ? getenv("DBNAME") : 'bridgeiasi';
+
 try{
     $database = new medoo([
         // required
