@@ -19,6 +19,7 @@ try{
             PDO::ATTR_CASE => PDO::CASE_NATURAL
         ]
     ]);
+    echo $database->database_name
 }
 catch(Exception $e){
     echo ("Exception DB");
