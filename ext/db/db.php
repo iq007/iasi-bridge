@@ -31,6 +31,8 @@ define('DBPASS', $connectstr_dbpassword);
 /** MySQL hostname : this contains the port number in this format host:port . Port is not 3306 when using this feature*/
 define('DBSERVER', $connectstr_dbhost);
 
+echo getenv("DBSERVER")
+
 try{
     $database = new medoo([
         // required
