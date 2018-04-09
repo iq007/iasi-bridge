@@ -129,8 +129,8 @@ $(document).ready(function(){
 
     $('.input-daterange').datepicker({
         weekStart: 1,
-        startDate: "04/20/2017",
-        endDate: "04/23/2017",
+        startDate: "04/13/2018",
+        endDate: "04/15/2018",
         clearBtn: true,
         autoclose: true
     });
