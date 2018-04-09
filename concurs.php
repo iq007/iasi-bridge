@@ -13,7 +13,7 @@
 
 <div id="br_concurs_noutati" class="container" role="main">
     <div class="jumbotron">
-        <p><a href="./arhiva/iasi2016.xls" target="_blank">Rezultate 2016</a></p>
+        <!--p><a href="./arhiva/iasi2016.xls" target="_blank">Rezultate 2016</a></p-->
         <p>Bridge Club Iasi va invita la Memorialul "Emil Alexandrescu", editia a XXVII-a, care va avea loc in perioada 13 Aprilie - 15 Aprilie 2018 la Hotel Ciric, sub patronajul Federatiei Romane de Bridge.</p>
 
         <p>&nbsp;</p>
