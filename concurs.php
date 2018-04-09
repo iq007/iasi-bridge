@@ -14,7 +14,7 @@
 <div id="br_concurs_noutati" class="container" role="main">
     <div class="jumbotron">
         <p><a href="./arhiva/iasi2016.xls" target="_blank">Rezultate 2016</a></p>
-        <p>Bridge Club Iasi va invita la Memorialul "Emil Alexandrescu", editia a XXVI-a, care va avea loc in perioada 21 Aprilie - 23 Aprilie 2017 la Motel Bucium, sub patronajul Federatiei Romane de Bridge.</p>
+        <p>Bridge Club Iasi va invita la Memorialul "Emil Alexandrescu", editia a XXVII-a, care va avea loc in perioada 13 Aprilie - 15 Aprilie 2018 la Hotel Ciric, sub patronajul Federatiei Romane de Bridge.</p>
 
         <p>&nbsp;</p>
         <div id="br_concurs_info" class="well" style="display: block; text-align: center">
@@ -47,10 +47,10 @@
                                 <h3 class="panel-title"><i class="fa fa-info fa-lg"> Program </i></h3>
                             </div>
                             <div class="panel-body">
-                                <b>Vineri,  21 Aprilie</b></br>16.00 - Perechi Open - Sesiunea I</br>20.30 - Perechi Open - Sesiunea II</br></br>
-                                <b>Sambata, 22 Aprilie</b></br>9.30 - Echipe Danez - Rundele I-IV</br>15.30 - Echipe Danez - Rundele V-VIII</br>
+                                <b>Vineri,  13 Aprilie</b></br>15.55 - Perechi Open - Sesiunea I</br>20.30 - Perechi Open - Sesiunea II</br></br>
+                                <b>Sambata, 14 Aprilie</b></br>9.45 - Echipe Danez - Rundele I-IV</br>15.45 - Echipe Danez - Rundele V-VIII</br>
                                     21.00 - Cina festiva oferita de organizator</br></br>
-                                <b>Duminica, 23 Aprilie</b></br>10.00 - Echipe Danez rundele 9-11 divizia B si divizia C</br>
+                                <b>Duminica, 15 Aprilie</b></br>11.00 - Echipe Danez rundele 9-11 divizia B si divizia C</br>
                                 10.00 - Echipe Danez Semifinale divizia A - loc I cu loc IV ; loc II cu loc III</br>
                                 - Finala mare: invingatoarele din semifinale
                                 - Finala mica: invinsele din semifinale
@@ -90,7 +90,7 @@
 
                         <div class="panel panel-info"  style="text-align: left">
                             <div class="panel-body">
-                                <p>Inscrierile se fac telefonic la numarul <a href="tel:0726745146">0726 745 146</a> până la data de 15.04.2017 sau online la <a href="http://bridge-iasi.club/concurs.php" target="_new">http://bridge-iasi.club/</a>
+                                <p>Inscrierile se fac telefonic la numarul <a href="tel:0722375885">0722 375 885</a> până la data de 07.04.2017 sau online la <a href="http://bridge-iasi.club/concurs.php" target="_new">http://bridge-iasi.club/</a>
                                 </p>
                                 <p>Confirmarile se sisteaza cu 60 de minute inainte de inceperea
                                     fiecarui concurs.
@@ -100,9 +100,9 @@
                                 <p>In sala de concurs, FUMATUL ESTE INTERZIS !
                                 </p>
                                 <p>Manager Turneu: Romeo Olteanu</br>
-                                    Director Turneu: Calin Damboianu</br>
+                                    Director Turneu: Razvan Spiridonescu</br>
                                     Arbitru: Adrian Craciun</br>
-                                    Arbitru: Carol Ghergheli
+                                    Arbitru: Carol Gergely
                                 </p>
 
                             </div>
