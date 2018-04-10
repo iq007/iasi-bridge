@@ -90,7 +90,7 @@
 
                         <div class="panel panel-info"  style="text-align: left">
                             <div class="panel-body">
-                                <p>Inscrierile se fac telefonic la numarul <a href="tel:0722375885">0722 375 885</a> până la data de 07.04.2017 sau online la <a href="http://bridge-iasi.club/concurs.php" target="_new">http://bridge-iasi.club/</a>
+                                <p>Inscrierile se fac telefonic la numarul <a href="tel:0722375885">0722 375 885</a> până la data de 12.04.2018 sau online la <a href="http://bridge-iasi.club/concurs.php" target="_new">http://bridge-iasi.club/</a>
                                 </p>
                                 <p>Confirmarile se sisteaza cu 60 de minute inainte de inceperea
                                     fiecarui concurs.
