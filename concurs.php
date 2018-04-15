@@ -50,7 +50,7 @@
                                 <b>Vineri,  13 Aprilie</b></br>15.55 - Perechi Open - Sesiunea I</br>20.30 - Perechi Open - Sesiunea II</br></br>
                                 <b>Sambata, 14 Aprilie</b></br>9.45 - Echipe Danez - Rundele I-IV</br>15.45 - Echipe Danez - Rundele V-VIII</br>
                                     21.00 - Cina festiva oferita de organizator</br></br>
-                                <b>Duminica, 15 Aprilie</b></br>11.00 - Echipe Danez rundele 9-11 divizia B si divizia C</br>
+                                <b>Duminica, 15 Aprilie</b></br>10.00 - Echipe Danez rundele 9-11 divizia B si divizia C</br>
                                 10.00 - Echipe Danez Semifinale divizia A - loc I cu loc IV ; loc II cu loc III</br>
                                 - Finala mare: invingatoarele din semifinale
                                 - Finala mica: invinsele din semifinale
